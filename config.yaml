@@ -1,7 +1,7 @@
 accounts:
-  - username: "test" # auth username
-    password: "test123456" # auth password
-    bind_address: "0.0.0.0:8080" # listen bind address + port
+  - username: "pikachu" # auth username
+    password: "pikachu" # auth password
+    bind_address: "146.190.83.153:1234" # listen bind address + port
     udp_bind_ip: "127.0.0.1" # udp bind ip
     out_address: "192.168.100.165" # specify out local address
     tcp_timeout: 60 # tcp timeout
